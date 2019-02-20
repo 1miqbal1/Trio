@@ -6,6 +6,7 @@ This C++ program receives three integers and tells the user the numbers in desce
 
 To run the program do the following in your command line interface prompt ($):
 
+[![Build Status](https://travis-ci.org/1miqbal1/Trio.svg?branch=master)](https://travis-ci.org/1miqbal1/Trio)
 ```
 $make
 $./a.out
